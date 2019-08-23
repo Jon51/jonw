@@ -1,0 +1,16 @@
+IndicatorNm,AreaType,AreaCode,Timeperiod,Count,Value,Polarity,Significance,Domain
+Patients aged 65 and over (%),GP,GP1,01-Jul-19,1089,18.7,RAG - High is good,Higher,Dom 1
+Patients aged 65 and over (%),GP,GP2,01-Jul-19,1366,15.6,RAG - High is good,Lower,Dom 1
+Patients aged 65 and over (%),GP,GP3,01-Jul-19,1996,23.5,RAG - High is good,Higher,Dom 1
+Patients aged 65 and over (%),GP,GP4,01-Jul-19,1307,19.8,RAG - High is good,Higher,Dom 1
+Patients aged 65 and over (%),CCG,CCG1,01-Jul-19,61492,17.4,RAG - High is good,Similar,Dom 1
+Patients aged 75 and over (%),GP,GP1,01-Jul-19,474,8.1,RAG - High is good,Similar,Dom 3
+Patients aged 75 and over (%),GP,GP2,01-Jul-19,625,7.1,RAG - High is good,Lower,Dom 3
+Patients aged 75 and over (%),GP,GP3,01-Jul-19,1001,11.8,RAG - High is good,Higher,Dom 3
+Patients aged 75 and over (%),GP,GP4,01-Jul-19,653,9.9,RAG - High is good,Higher,Dom 3
+Patients aged 75 and over (%),CCG,CCG1,01-Jul-19,29490,8.4,RAG - High is good,Similar,Dom 3
+Patients aged under 5 (%),GP,GP1,01-Jul-19,308,5.3,RAG - High is good,Similar,Dom 2
+Patients aged under 5 (%),GP,GP2,01-Jul-19,479,5.5,RAG - High is good,Similar,Dom 2
+Patients aged under 5 (%),GP,GP3,01-Jul-19,424,5.0,RAG - High is good,Lower,Dom 2
+Patients aged under 5 (%),GP,GP4,01-Jul-19,338,5.1,RAG - High is good,Lower,Dom 2
+Patients aged under 5 (%),CCG,CCG1,01-Jul-19,20685,5.9,RAG - High is good,Similar,Dom 2
